@@ -3,7 +3,7 @@ use std::io::{stdout, BufWriter};
 
 fn main() {
     let stdout = stdout();
-    let out1 = b"Hello cruel Rustaceans!";
+    let out1 = b"Hello other Rustaceans!";
     let out2 = b"> rustup docs --book";
     let width = 24;
     
